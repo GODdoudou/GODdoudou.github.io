@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/2019/12/02/test/"/>
+      <url>/2019/12/02/test/</url>
+      
+        <content type="html"><![CDATA[<h1 id="coding-utf-8"><a href="#coding-utf-8" class="headerlink" title="-- coding: utf-8 --"></a>-<em>- coding: utf-8 -</em>-</h1><p>def move(n, a, b, c):</p><pre><code>if n == 1:    print(a, &apos;--&gt;&apos;, c)else:    move(n-1, a, c, b)    move(1, a, b, c)    move(n-1, b, a, c)</code></pre><p>move(3, ‘A’, ‘B’, ‘C’)</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/12/02/hello-world/"/>
       <url>/2019/12/02/hello-world/</url>

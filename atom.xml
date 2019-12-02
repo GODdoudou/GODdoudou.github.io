@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-02T06:36:43.584Z</updated>
+  <updated>2019-12-02T07:09:47.906Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2019/12/02/test/"/>
+    <id>http://yoursite.com/2019/12/02/test/</id>
+    <published>2019-12-02T07:09:45.322Z</published>
+    <updated>2019-12-02T07:09:47.906Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="coding-utf-8"><a href="#coding-utf-8" class="headerlink" title="-- coding: utf-8 --"></a>-<em>- coding: utf-8 -</em>-</h1><p>def move(n, a, b, c):</p><pre><code>if n == 1:    print(a, &apos;--&gt;&apos;, c)else:    move(n-1, a, c, b)    move(1, a, b, c)    move(n-1, b, a, c)</code></pre><p>move(3, ‘A’, ‘B’, ‘C’)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;coding-utf-8&quot;&gt;&lt;a href=&quot;#coding-utf-8&quot; class=&quot;headerlink&quot; title=&quot;-- coding: utf-8 --&quot;&gt;&lt;/a&gt;-&lt;em&gt;- coding: utf-8 -&lt;/em&gt;-&lt;/h1&gt;&lt;p&gt;def mov
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
