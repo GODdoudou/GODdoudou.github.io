@@ -1,6 +1,8 @@
 ## Quick Start
 
-![test](images/2019-12-02-16-08-35.png))
+![test](images/2019-12-02-16-08-35.png)
+
+
 ### Create a new post
 def move(n, a, b, c):
 
