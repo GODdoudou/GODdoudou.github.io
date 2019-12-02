@@ -1,6 +1,7 @@
-# -*- coding: utf-8 -*-
+## Quick Start
 
-
+![test](images/2019-12-02-16-08-35.png))
+### Create a new post
 def move(n, a, b, c):
 
     if n == 1:
@@ -17,3 +18,4 @@ def move(n, a, b, c):
 
 
 move(3, 'A', 'B', 'C')
+
