@@ -1,7 +1,8 @@
 ## Quick Start
 
-![test](images/2019-12-02-16-08-35.png)
+<!-- sfast -->   
 
+{% asset_img 2019-12-02-16-08-35.jpg This is an image %}
 
 ### Create a new post
 def move(n, a, b, c):
