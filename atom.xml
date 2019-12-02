@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-02T07:09:47.906Z</updated>
+  <updated>2019-12-02T08:08:50.613Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2019/12/02/test/"/>
     <id>http://yoursite.com/2019/12/02/test/</id>
     <published>2019-12-02T07:09:45.322Z</published>
-    <updated>2019-12-02T07:09:47.906Z</updated>
+    <updated>2019-12-02T08:08:50.613Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="coding-utf-8"><a href="#coding-utf-8" class="headerlink" title="-- coding: utf-8 --"></a>-<em>- coding: utf-8 -</em>-</h1><p>def move(n, a, b, c):</p><pre><code>if n == 1:    print(a, &apos;--&gt;&apos;, c)else:    move(n-1, a, c, b)    move(1, a, b, c)    move(n-1, b, a, c)</code></pre><p>move(3, ‘A’, ‘B’, ‘C’)</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p><img src="images/2019-12-02-16-08-35.png" alt="test">))</p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><p>def move(n, a, b, c):</p><pre><code>if n == 1:    print(a, &apos;--&gt;&apos;, c)else:    move(n-1, a, c, b)    move(1, a, b, c)    move(n-1, b, a, c)</code></pre><p>move(3, ‘A’, ‘B’, ‘C’)</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;coding-utf-8&quot;&gt;&lt;a href=&quot;#coding-utf-8&quot; class=&quot;headerlink&quot; title=&quot;-- coding: utf-8 --&quot;&gt;&lt;/a&gt;-&lt;em&gt;- coding: utf-8 -&lt;/em&gt;-&lt;/h1&gt;&lt;p&gt;def mov
+        &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;images/2019-12-02-16-08-
       
     
     </summary>
