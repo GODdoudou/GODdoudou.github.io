@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-02T08:12:51.272Z</updated>
+  <updated>2019-12-03T08:04:29.513Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com/2019/12/02/test/"/>
-    <id>http://yoursite.com/2019/12/02/test/</id>
-    <published>2019-12-02T07:09:45.322Z</published>
-    <updated>2019-12-02T08:12:51.272Z</updated>
+    <link href="http://yoursite.com/2019/12/03/test/"/>
+    <id>http://yoursite.com/2019/12/03/test/</id>
+    <published>2019-12-03T08:03:28.000Z</published>
+    <updated>2019-12-03T08:04:29.513Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p><img src="images/2019-12-02-16-08-35.png" alt="test"></p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><p>def move(n, a, b, c):</p><pre><code>if n == 1:    print(a, &apos;--&gt;&apos;, c)else:    move(n-1, a, c, b)    move(1, a, b, c)    move(n-1, b, a, c)</code></pre><p>move(3, ‘A’, ‘B’, ‘C’)</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Quick-Start1"><a href="#Quick-Start1" class="headerlink" title="Quick Start1"></a>Quick Start1</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo server</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo generate</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;images/2019-12-02-16-08-
+        &lt;h2 id=&quot;Quick-Start1&quot;&gt;&lt;a href=&quot;#Quick-Start1&quot; class=&quot;headerlink&quot; title=&quot;Quick Start1&quot;&gt;&lt;/a&gt;Quick Start1&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a hre
       
     
     </summary>
