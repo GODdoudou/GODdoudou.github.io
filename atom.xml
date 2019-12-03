@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://goddoudou.github.io/"/>
   <updated>2019-12-03T08:36:36.245Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://goddoudou.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com/2019/12/03/test/"/>
-    <id>http://yoursite.com/2019/12/03/test/</id>
+    <link href="http://goddoudou.github.io/2019/12/03/test/"/>
+    <id>http://goddoudou.github.io/2019/12/03/test/</id>
     <published>2019-12-03T08:03:28.000Z</published>
     <updated>2019-12-03T08:36:36.245Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Quick-Start1"><a href="#Quick-Start1" class="headerlink" title="Quick Start1"></a>Quick Start1</h2><p>这是一个图片<img src="/.com//12/03/test/test.png" class title="tupian"></p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo server</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo generate</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Quick-Start1"><a href="#Quick-Start1" class="headerlink" title="Quick Start1"></a>Quick Start1</h2><p>这是一个图片<img src="/.io//12/03/test/test.png" class title="tupian"></p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo server</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo generate</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Quick-Start1&quot;&gt;&lt;a href=&quot;#Quick-Start1&quot; class=&quot;headerlink&quot; title=&quot;Quick Start1&quot;&gt;&lt;/a&gt;Quick Start1&lt;/h2&gt;&lt;p&gt;这是一个图片&lt;img src=&quot;/.com//12/03/t
+        &lt;h2 id=&quot;Quick-Start1&quot;&gt;&lt;a href=&quot;#Quick-Start1&quot; class=&quot;headerlink&quot; title=&quot;Quick Start1&quot;&gt;&lt;/a&gt;Quick Start1&lt;/h2&gt;&lt;p&gt;这是一个图片&lt;img src=&quot;/.io//12/03/te
       
     
     </summary>
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/12/02/hello-world/"/>
-    <id>http://yoursite.com/2019/12/02/hello-world/</id>
+    <link href="http://goddoudou.github.io/2019/12/02/hello-world/"/>
+    <id>http://goddoudou.github.io/2019/12/02/hello-world/</id>
     <published>2019-12-02T06:36:43.584Z</published>
     <updated>2019-12-02T06:36:43.584Z</updated>
     
