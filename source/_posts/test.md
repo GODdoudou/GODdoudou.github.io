@@ -5,6 +5,7 @@ tags:
 
 ---
 ## Quick Start1
+这是一个图片｛% asset_img test.png tupian %｝
 
 ### Create a new post
 
