@@ -1,24 +1,40 @@
-## Quick Start
+---
+title: test
+date: 2019-12-03 16:03:28
+tags:
 
-<!-- sfast -->   
-
-{% asset_img 2019-12-02-16-08-35.jpg This is an image %}
+---
+## Quick Start1
 
 ### Create a new post
-def move(n, a, b, c):
 
-    if n == 1:
+``` bash
+$ hexo new "My New Post"
+```
 
-        print(a, '-->', c)
+More info: [Writing](https://hexo.io/docs/writing.html)
 
-    else:
+### Run server
 
-        move(n-1, a, c, b)
+``` bash
+$ hexo server
+```
 
-        move(1, a, b, c)
+More info: [Server](https://hexo.io/docs/server.html)
 
-        move(n-1, b, a, c)
+### Generate static files
 
+``` bash
+$ hexo generate
+```
 
-move(3, 'A', 'B', 'C')
+More info: [Generating](https://hexo.io/docs/generating.html)
+
+### Deploy to remote sites
+
+``` bash
+$ hexo deploy
+```
+
+More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
