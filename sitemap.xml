@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://goddoudou.github.io/catagories/index.html</loc>
+    
+    <lastmod>2019-12-10T08:24:25.050Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://goddoudou.github.io/friends/index.html</loc>
+    
+    <lastmod>2019-12-10T08:24:09.538Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://goddoudou.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-12-10T08:23:48.844Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://goddoudou.github.io/about/index.html</loc>
+    
+    <lastmod>2019-12-10T08:23:15.166Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://goddoudou.github.io/2019/12/03/test/</loc>
     
     <lastmod>2019-12-10T02:37:04.435Z</lastmod>
